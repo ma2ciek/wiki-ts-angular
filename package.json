@@ -1,0 +1,10 @@
+{
+    "name": "wikipedia",
+    "version": "0.0.1",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-clean": "^0.3.2",
+        "gulp-typescript": "^2.12.1",
+        "gulp-less": "^3.0.5"
+    }
+}
